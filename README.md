@@ -1,8 +1,7 @@
 ## Oiieee, Eu sou o Rafael 😀
 
-- 🔭 Não estou trabalhando no momento 😢
 - 🌱 Estudando HTML, CSS e JS
-- 📚 Estou cursando Sistemas Para Internet
+- 📚 Estou cursando Licenciatura em Física
 - 💬 Contate-me no email: contatorafaelrfernandes@gmail.com
 - 😄 Pronomes: ele/dele
 <div style="display: inline_block"><br>
